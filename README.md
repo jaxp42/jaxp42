@@ -1,7 +1,5 @@
+<h2>Hi there 👋</h2>
 
-<div style="background-color: red">
-  <h2>Hi there 👋</h2>
-</div>
 
 
 <!--
