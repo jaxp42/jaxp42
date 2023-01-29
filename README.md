@@ -1,4 +1,12 @@
-<div style="background-color:red;">
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+<div class="green">
   <h2>Hi there 👋</h2>
 </div>
 
