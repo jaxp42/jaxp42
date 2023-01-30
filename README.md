@@ -7,19 +7,25 @@
   <summary>☕ Tools</summary>
   <br />
   
-  [![git](https://badgen.net/badge/icon/git?icon=git&label&scale=1.5)](https://git-scm.com) (https://git-scm.com)
+  &nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) &nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 </details>
 
 --- 
 
 <details>
   <summary>⚡ Databases</summary>
+  <br />
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
 
 ---
 
 <details>
   <summary>🔨 Frameworks</summary>
+  <br />
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </details>
 
 ---
