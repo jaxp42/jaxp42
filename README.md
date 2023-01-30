@@ -1,5 +1,5 @@
 ![](https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif)
- # Welcome to my profile👋 &nbsp;&nbsp;&nbsp;&nbsp;![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white) &nbsp;&nbsp;![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ # Welcome to my profile👋 &nbsp;&nbsp;&nbsp;&nbsp;![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white) &nbsp;&nbsp;![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 	&nbsp;&nbsp;![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
   <br />
   
 <!-- https://art.pixilart.com/cb97514d85c12ba.gif -->
@@ -32,6 +32,15 @@
 ---
 
 <details>
+ <summary>🐧 Systems</summary>
+ <br />
+ 
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) &nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) &nbsp;&nbsp;![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) &nbsp;&nbsp;![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) &nbsp;&nbsp;![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) &nbsp;&nbsp;![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) &nbsp;&nbsp;![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) &nbsp;&nbsp;![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+</details>
+
+---
+
+<details>
   <summary>❓ About me</summary>
   <br />
  
@@ -40,10 +49,7 @@
 
   Currently, I'm getting more involved in the development of plugins for Atlassian products, mostly Jira and Confluence, both server and cloud. Besides, I like            spending some time working on my projects, learning new technologies or improving my skills.
  </p>
-
 </details>
-
----
 <br />
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/jaxp42?ext=heatmap)](https://leetcode.com/jaxp42)                                   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxp42&layout=compact&theme=synthwave)](https://github.com/jaxp42/github-readme-stats) 
