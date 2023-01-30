@@ -1,3 +1,4 @@
+ ![](https://art.pixilart.com/cb97514d85c12ba.gif)
  # Welcome 👋
 
 <details>
@@ -36,5 +37,5 @@
 ---
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/jaxp42)](https://leetcode.com/jaxp42)                                   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxp42&layout=compact&theme=synthwave)](https://github.com/jaxp42/github-readme-stats) 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/jaxp42?ext=heatmap)](https://leetcode.com/jaxp42)                                   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxp42&layout=compact&theme=synthwave)](https://github.com/jaxp42/github-readme-stats) 
 
