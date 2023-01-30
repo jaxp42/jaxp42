@@ -1,5 +1,5 @@
 ![](https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif)
- # Welcome to my profile👋 &nbsp;&nbsp;&nbsp;&nbsp;![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
+ # Welcome to my profile👋 &nbsp;&nbsp;&nbsp;&nbsp;![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white) &nbsp;&nbsp;![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   <br />
   
 <!-- https://art.pixilart.com/cb97514d85c12ba.gif -->
@@ -44,7 +44,7 @@
 </details>
 
 ---
-
+<br />
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/jaxp42?ext=heatmap)](https://leetcode.com/jaxp42)                                   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxp42&layout=compact&theme=synthwave)](https://github.com/jaxp42/github-readme-stats) 
 
