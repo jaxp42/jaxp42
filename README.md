@@ -1,5 +1,9 @@
 <h2>Hi there 👋</h2>
 
+[![git](https://badgen.net/badge/icon/git?icon=git&label&scale=1.5)](https://git-scm.com)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxp42)](https://github.com/jaxp42/github-readme-stats)
 
 
 <!--
